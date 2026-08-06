@@ -1,0 +1,19 @@
+role,skills
+Data Scientist,Python;SQL;Machine Learning;Statistics;Data Analysis;Pandas;NumPy
+DevOps Engineer,AWS;Docker;Kubernetes;CI/CD;Automation;Linux;Terraform
+Backend Developer,Java;Python;SQL;APIs;REST;Databases;Git
+Frontend Developer,JavaScript;React;HTML;CSS;TypeScript;UI Design;Git
+Cloud Architect,AWS;Azure;Cloud Computing;Networking;Security;Terraform;Automation
+Machine Learning Engineer,Python;Machine Learning;TensorFlow;PyTorch;Data Structures;Statistics;MLOps
+Site Reliability Engineer,Linux;Automation;Monitoring;Kubernetes;CI/CD;Python;Incident Response
+Data Engineer,Python;SQL;ETL;Data Pipelines;Spark;Cloud Computing;Airflow
+Full Stack Developer,JavaScript;Python;React;Node.js;SQL;APIs;Git
+Cybersecurity Analyst,Networking;Security;Linux;Python;Risk Assessment;Firewalls;Incident Response
+Mobile App Developer,Java;Kotlin;Swift;Mobile UI;APIs;Git;Android
+Database Administrator,SQL;Databases;Data Structures;Backup;Performance Tuning;Security;Linux
+AI Research Scientist,Python;Machine Learning;Deep Learning;Statistics;Research;PyTorch;Mathematics
+Systems Administrator,Linux;Networking;Automation;Scripting;Security;Windows Server;Monitoring
+Product Manager,Communication;Roadmapping;Agile;Data Analysis;Stakeholder Management;Strategy;UX
+QA Engineer,Testing;Automation;Python;Selenium;CI/CD;Bug Tracking;Git
+Blockchain Developer,Solidity;Python;Cryptography;Smart Contracts;Blockchain;Git;JavaScript
+Game Developer,C++;Unity;Game Design;Graphics;Physics;C#;Git
